@@ -2,606 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e430e1d-99e8-4200-b1c1-25f797788a93" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/application.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/Helper.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/UrlManager.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/user/UserService.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/user/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/common/models/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/base_setting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/local_setting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/production_setting.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/mysql.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jobs/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jobs/tasks/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manager.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/.idea/markdown-navigator/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/.idea/mina.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/app.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/app.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/food.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/more/confirm-word1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/more/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/more/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/more/title8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/more/wave.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/cart-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/cart-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/home-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/home-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/my-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/my-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/order-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/nav/order-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/no-order.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-address.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-ddfh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-ddfk.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-ddgb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-ddsh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-jycg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/order/icon-wuliu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/qd.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/images/search-pic.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/cart/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/cart/index.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/cart/index.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/cart/index.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/index.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/index.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/index.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/info.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/info.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/info.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/food/info.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/index/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/index/index.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/index/index.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/index/index.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressList.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressList.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressList.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressSet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressSet.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressSet.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/addressSet.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/comment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/comment.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/comment.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/comment.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/commentList.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/commentList.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/commentList.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/commentList.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/index.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/index.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/index.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_info.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_info.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_info.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_info.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_list.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_list.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_list.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/my/order_list.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/order/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/order/index.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/order/index.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/pages/order/index.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/project.config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/utils/city.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/utils/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/00.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/01.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/02.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/03.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/04.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/05.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/06.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/07.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/08.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/09.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/101.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/102.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/103.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/104.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/105.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/106.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/107.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/108.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/109.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/110.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/111.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/112.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/113.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/114.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/115.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/116.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/117.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/118.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/119.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/120.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/121.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/122.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/123.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/124.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/125.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/126.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/127.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/128.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/129.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/130.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/131.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/132.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/133.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/134.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/72.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/73.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/74.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/75.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/76.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/77.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/78.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/79.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/80.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/81.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/82.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/83.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/84.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/85.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/86.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/87.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/88.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/89.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/90.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/91.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/92.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/93.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/94.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/95.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/96.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/97.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/98.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/emojis/99.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/html2json.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/htmlparser.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/showdown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/wxDiscode.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/wxParse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/wxParse.wxml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mina/wxParse/wxParse.wxss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/account/Account.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/finance/Finance.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/food/Food.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/index.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/member/Member.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/stat/Stat.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/static.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/user/User.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/interceptors/AuthInterceptor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/bootstrap/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/bootstrap/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/images/common/avatar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/images/common/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/images/common/mini_qrcode.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/account/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/account/set.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/user/edit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/user/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/js/user/reset_pwd.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/datetimepicker/jquery.datetimepicker.full.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/datetimepicker/jquery.datetimepicker.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/highcharts/highcharts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/jquery-2.1.1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/mobile/layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/mobile/need/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/icon-ext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/layer.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/loading-0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/loading-1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/layer/skin/default/loading-2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/moment.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/img/cancel-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/img/cancel-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/img/star-half.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/img/star-off.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/img/star-on.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/raty/jquery.raty.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/select2/pinyin.core.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/select2/select2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/select2/select2.pinyin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/select2/zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/tagsinput/jquery.tagsinput.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/tagsinput/jquery.tagsinput.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/anchor/anchor.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/attachment.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/attachment.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/attachment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/alignicon.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/alignicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/file-icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/file-icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/progress.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/success.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/attachment/images/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/background/background.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/background/background.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/background/background.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/background/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/background/images/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/chart.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/charts.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/charts.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/charts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/charts/images/charts5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/emotion.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/emotion.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/emotion.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/bface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/cface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/fface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/tface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/wface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/emotion/images/yface.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/gmap/gmap.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/help/help.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/help/help.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/help/help.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/image.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/image.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/alignicon.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/progress.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/success.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/image/images/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/insertframe/insertframe.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/internal.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/link/link.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/map/map.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/map/show.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/music/music.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/music/music.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/music/music.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/preview/preview.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/addimg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/brush.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/delimg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/delimgH.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/empty.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/emptyH.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/eraser.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/redo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/redoH.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/scale.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/scaleH.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/size.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/undo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/images/undoH.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/scrawl.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/scrawl.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/scrawl/scrawl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/searchreplace/searchreplace.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/searchreplace/searchreplace.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/snapscreen/snapscreen.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/spechars/spechars.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/spechars/spechars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/dragicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/edittable.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/edittable.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/edittable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/edittd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/table/edittip.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/bg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/pre0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/pre1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/pre2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/pre3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/images/pre4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/template.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/template.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/template/template.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/file-icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/file-icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/progress.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/success.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/images/success.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/video.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/video.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/video/video.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/webapp/webapp.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/wordimage/imageUploader.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/wordimage/tangram.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/wordimage/wordimage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/dialogs/wordimage/wordimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/addimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/alldeletebtnupskin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/copy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/deletedisable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/deleteenable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/listbackground.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/localimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/music.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/rotateleftdisable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/rotateleftenable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/rotaterightdisable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/rotaterightenable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/en/images/upload.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/zh-cn/images/copy.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/zh-cn/images/localimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/zh-cn/images/music.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/zh-cn/images/upload.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/lang/zh-cn/zh-cn.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/css/ueditor.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/css/ueditor.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/dialogbase.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/anchor.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/arrow_down.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/arrow_up.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/button-bg.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/cancelbutton.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/charts.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/cursor_h.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/cursor_h.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/cursor_v.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/cursor_v.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/dialog-title-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/filescan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/highlighted.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/icons-all.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/icons.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/loaderror.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/lock.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/pagebreak.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/scale.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/sortable.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/spacer.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/sparator_v.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/table-cell-align.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/tangram-colorpicker.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/toolbar_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/unhighlighted.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/upload.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/videologo.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/word.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/default/images/wordpaste.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/themes/iframe.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/codemirror/codemirror.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/codemirror/codemirror.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/highcharts-more.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/highcharts-more.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/highcharts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/highcharts.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/annotations.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/annotations.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/canvas-tools.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/data.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/data.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/drilldown.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/drilldown.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/exporting.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/exporting.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/funnel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/funnel.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/heatmap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/heatmap.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/map.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/themes/dark-blue.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/themes/dark-green.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/themes/gray.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/themes/grid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/highcharts/themes/skies.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/jquery-1.10.2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/jquery-1.10.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/jquery-1.10.2.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/font/vjs.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/font/vjs.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/font/vjs.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/font/vjs.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/video-js.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/video-js.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/video-js.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/video.dev.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/video-js/video.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/Uploader.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.custom.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.flashonly.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.html5only.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/ueditor.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/ueditor.all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/ueditor.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/ueditor.parse.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/ueditor.parse.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/static/plugins/ueditor/upload_config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/account/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/account/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/account/set.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/common/layout_main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/common/layout_user.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/common/pagenation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/common/tab_user.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/error/error.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/finance/account.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/finance/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/finance/pay_info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/food/cat.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/food/cat_set.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/food/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/food/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/food/set.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/index/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/member/comment.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/member/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/member/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/member/set.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/stat/food.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/stat/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/stat/member.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/stat/share.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/user/edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/user/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/user/reset_pwd.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/www.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/libs/LogService.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/common/models/log/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/api/Member.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/controllers/api/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/interceptors/ErrorInterceptor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/templates/common/tab_account.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/common/libs/UrlManager.py" afterPath="$PROJECT_DIR$/common/libs/UrlManager.py" />
+      <change beforePath="$PROJECT_DIR$/config/base_setting.py" afterPath="$PROJECT_DIR$/config/base_setting.py" />
+      <change beforePath="$PROJECT_DIR$/config/local_setting.py" afterPath="$PROJECT_DIR$/config/local_setting.py" />
+      <change beforePath="$PROJECT_DIR$/mina/app.js" afterPath="$PROJECT_DIR$/mina/app.js" />
+      <change beforePath="$PROJECT_DIR$/mina/app.json" afterPath="$PROJECT_DIR$/mina/app.json" />
+      <change beforePath="$PROJECT_DIR$/mina/pages/index/index.js" afterPath="$PROJECT_DIR$/mina/pages/index/index.js" />
+      <change beforePath="$PROJECT_DIR$/mina/pages/index/index.wxml" afterPath="$PROJECT_DIR$/mina/pages/index/index.wxml" />
+      <change beforePath="$PROJECT_DIR$/mina/project.config.json" afterPath="$PROJECT_DIR$/mina/project.config.json" />
+      <change beforePath="$PROJECT_DIR$/web/controllers/account/Account.py" afterPath="$PROJECT_DIR$/web/controllers/account/Account.py" />
+      <change beforePath="$PROJECT_DIR$/web/controllers/user/User.py" afterPath="$PROJECT_DIR$/web/controllers/user/User.py" />
+      <change beforePath="$PROJECT_DIR$/web/interceptors/AuthInterceptor.py" afterPath="$PROJECT_DIR$/web/interceptors/AuthInterceptor.py" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/account/index.js" afterPath="$PROJECT_DIR$/web/static/js/account/index.js" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/account/set.js" afterPath="$PROJECT_DIR$/web/static/js/account/set.js" />
+      <change beforePath="$PROJECT_DIR$/web/templates/account/index.html" afterPath="$PROJECT_DIR$/web/templates/account/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/templates/account/info.html" afterPath="$PROJECT_DIR$/web/templates/account/info.html" />
+      <change beforePath="$PROJECT_DIR$/web/templates/account/set.html" afterPath="$PROJECT_DIR$/web/templates/account/set.html" />
+      <change beforePath="$PROJECT_DIR$/www.py" afterPath="$PROJECT_DIR$/www.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -612,76 +36,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/models/user.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/controllers/api/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="21" column="79" lean-forward="true" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+            <state relative-caret-position="243">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/controllers/account/Account.py">
+      <file leaf-file-name="Member.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/controllers/api/Member.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="168" column="39" lean-forward="false" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
+            <state relative-caret-position="351">
+              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
-                <element signature="e#0#55#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/templates/account/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/static/js/account/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="42" column="70" lean-forward="true" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
-              <folding>
-                <element signature="e#578#1209#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/static/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="115" column="4" lean-forward="false" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/libs/user/UserService.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="set.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/static/js/account/set.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="75" selection-end-column="56" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -689,8 +61,51 @@
       <file leaf-file-name="base_setting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/base_setting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="268">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mina/pages/index/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="76" column="51" lean-forward="true" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#889#1448#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mina/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mina/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-505">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.wxml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mina/pages/index/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -701,9 +116,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -721,20 +136,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/libs/UrlManager.py" />
         <option value="$PROJECT_DIR$/config/production_setting.py" />
         <option value="$PROJECT_DIR$/docs/mysql.md" />
         <option value="$PROJECT_DIR$/application.py" />
         <option value="$PROJECT_DIR$/web/controllers/static.py" />
         <option value="$PROJECT_DIR$/common/models/user.py" />
         <option value="$PROJECT_DIR$/common/models/model.py" />
-        <option value="$PROJECT_DIR$/config/local_setting.py" />
         <option value="$PROJECT_DIR$/manager.py" />
-        <option value="$PROJECT_DIR$/web/static/js/common.js" />
         <option value="$PROJECT_DIR$/web/templates/user/login.html" />
         <option value="$PROJECT_DIR$/web/static/js/user/login.js" />
-        <option value="$PROJECT_DIR$/www.py" />
-        <option value="$PROJECT_DIR$/web/interceptors/AuthInterceptor.py" />
         <option value="$PROJECT_DIR$/web/templates/common/layout_main.html" />
         <option value="$PROJECT_DIR$/web/controllers/stat/Stat.py" />
         <option value="$PROJECT_DIR$/web/controllers/member/Member.py" />
@@ -745,17 +155,35 @@
         <option value="$PROJECT_DIR$/web/controllers/index.py" />
         <option value="$PROJECT_DIR$/web/templates/user/reset_pwd.html" />
         <option value="$PROJECT_DIR$/web/templates/user/edit.html" />
-        <option value="$PROJECT_DIR$/web/controllers/user/User.py" />
         <option value="$PROJECT_DIR$/web/templates/common/tab_user.html" />
-        <option value="$PROJECT_DIR$/web/templates/account/info.html" />
         <option value="$PROJECT_DIR$/common/libs/Helper.py" />
         <option value="$PROJECT_DIR$/common/libs/user/UserService.py" />
-        <option value="$PROJECT_DIR$/web/static/js/account/set.js" />
+        <option value="$PROJECT_DIR$/web/static/js/common.js" />
+        <option value="$PROJECT_DIR$/web/templates/common/tab_account.html" />
         <option value="$PROJECT_DIR$/web/templates/account/set.html" />
-        <option value="$PROJECT_DIR$/config/base_setting.py" />
         <option value="$PROJECT_DIR$/web/templates/account/index.html" />
-        <option value="$PROJECT_DIR$/web/controllers/account/Account.py" />
+        <option value="$PROJECT_DIR$/web/controllers/user/User.py" />
+        <option value="$PROJECT_DIR$/web/static/js/account/set.js" />
         <option value="$PROJECT_DIR$/web/static/js/account/index.js" />
+        <option value="$PROJECT_DIR$/config/local_setting.py" />
+        <option value="$PROJECT_DIR$/common/libs/UrlManager.py" />
+        <option value="$PROJECT_DIR$/common/models/log/AppAccesslog.py" />
+        <option value="$PROJECT_DIR$/common/models/log/AppAccessLog.py" />
+        <option value="$PROJECT_DIR$/common/models/log/AppErrorLog.py" />
+        <option value="$PROJECT_DIR$/common/LogService.py" />
+        <option value="$PROJECT_DIR$/web/interceptors/AuthInterceptor.py" />
+        <option value="$PROJECT_DIR$/web/templates/account/info.html" />
+        <option value="$PROJECT_DIR$/web/controllers/account/Account.py" />
+        <option value="$PROJECT_DIR$/web/interceptors/ErrorInterceptor.py" />
+        <option value="$PROJECT_DIR$/common/libs/LogService.py" />
+        <option value="$PROJECT_DIR$/www.py" />
+        <option value="$PROJECT_DIR$/mina/app.js" />
+        <option value="$PROJECT_DIR$/mina/app.json" />
+        <option value="$PROJECT_DIR$/mina/pages/index/index.wxml" />
+        <option value="$PROJECT_DIR$/config/base_setting.py" />
+        <option value="$PROJECT_DIR$/web/controllers/api/__init__.py" />
+        <option value="$PROJECT_DIR$/mina/pages/index/index.js" />
+        <option value="$PROJECT_DIR$/web/controllers/api/Member.py" />
       </list>
     </option>
   </component>
@@ -801,29 +229,29 @@
             <path>
               <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="mina" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="mina" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="mina" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -837,47 +265,13 @@
               <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="interceptors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weixin_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weixin_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -893,9 +287,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\common\libs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\web\static\js\account" />
       <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\web\templates\common" />
+      <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\web\static\js\account" />
       <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop" />
       <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\web\controllers" />
       <recent name="C:\Users\fatal\Desktop\gitcode\weixin_shop\common\libs" />
@@ -937,9 +334,9 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22434367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.398568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15442765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15982722" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -966,171 +363,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/controllers/user/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#73#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/interceptors/AuthInterceptor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="41" column="66" lean-forward="true" selection-start-line="41" selection-start-column="66" selection-end-line="41" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/mysql.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/food/cat.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/.idea/mina.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/pages/cart/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/pages/order/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/pages/order/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/pages/order/index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mina/pages/order/index.wxss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1053">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#16#84#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/production_setting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/flaskenv2/Lib/site-packages/flask/helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-838">
-          <caret line="166" column="4" lean-forward="false" selection-start-line="166" selection-start-column="4" selection-end-line="166" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/UrlManager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/flaskenv2/Lib/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="394" column="13" lean-forward="false" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/common/layout_user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/templates/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1287">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,9 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,7 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,9 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1166,9 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1176,7 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-270">
           <caret line="79" column="63" lean-forward="false" selection-start-line="79" selection-start-column="63" selection-end-line="79" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,15 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/user/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="76" lean-forward="true" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1216,7 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="688">
           <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1224,23 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="711">
           <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/interceptors/AuthInterceptor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/local_setting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,7 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1272,113 +465,306 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/controllers/user/User.py">
+    <entry file="file://$USER_HOME$/Envs/flaskenv2/Lib/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#73#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/Helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/account/info.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1031">
-          <caret line="18" column="121" lean-forward="false" selection-start-line="18" selection-start-column="121" selection-end-line="18" selection-end-column="121" />
+        <state relative-caret-position="141">
+          <caret line="426" column="54" lean-forward="true" selection-start-line="426" selection-start-column="54" selection-end-line="426" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/common/tab_account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/templates/account/set.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="215">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/base_setting.py">
+    <entry file="file://$PROJECT_DIR$/web/controllers/user/User.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/static/js/account/set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="75" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/libs/user/UserService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="21" column="79" lean-forward="true" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/controllers/account/Account.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="168" column="39" lean-forward="false" selection-start-line="168" selection-start-column="39" selection-end-line="168" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/account/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="41" />
+        <state relative-caret-position="-567">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/static/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="115" column="4" lean-forward="false" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
+        <state relative-caret-position="297">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/user/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/static/js/account/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="42" column="70" lean-forward="true" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+        <state relative-caret-position="320">
+          <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/static/js/account/set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="76" column="56" lean-forward="true" selection-start-line="76" selection-start-column="56" selection-end-line="76" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/libs/user/UserService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/account/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" column="91" lean-forward="false" selection-start-line="65" selection-start-column="91" selection-end-line="65" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/local_setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#578#1209#0" expanded="false" />
+            <element signature="e#0#23#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/libs/UrlManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/error/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/log/AppAccessLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#90#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/libs/Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1352">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="79" lean-forward="false" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/account/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="52" column="69" lean-forward="true" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/interceptors/ErrorInterceptor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#27#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/log/AppErrorLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#78#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/libs/LogService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/pages/index/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/project.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controllers/account/Account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/pages/index/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/interceptors/AuthInterceptor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/base_setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controllers/api/Member.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/controllers/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/pages/index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="76" column="51" lean-forward="true" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#889#1448#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mina/pages/index/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -68,6 +68,7 @@ var account_set_ops = {
                 dataType: 'json',
                 success: function (res) {
                     btn_target.removeClass('disabled');
+                    var callback = null;
                     if (res.code == 200) {
                         callback = function () {
                             window.location.href = common_ops.buildUrl('/account/index');

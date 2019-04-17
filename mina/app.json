@@ -10,7 +10,8 @@
     "pages/my/addressList",
     "pages/my/addressSet",
     "pages/my/commentList",
-    "pages/my/index"
+    "pages/my/index",
+    "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "light",

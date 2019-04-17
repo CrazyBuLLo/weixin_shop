@@ -5,6 +5,7 @@ from application import app, db
 from common.libs.UrlManager import UrlManager
 from common.libs.user.UserService import UserService
 from sqlalchemy import or_
+from common.models.log.AppAccessLog import AppAccessLog
 
 route_account = Blueprint('account_page', __name__)
 
@@ -58,7 +59,10 @@ def info():
     if not info:
         return redirect(UrlManager.buildUrl('/account/index'))
 
+    logs = AppAccessLog.query.filter_by(uid=uid).order_by('-created_time').all()
+
     resp_data['info'] = info
+    resp_data['logs'] = logs[:5]
 
     return ops_render('account/info.html', resp_data)
 

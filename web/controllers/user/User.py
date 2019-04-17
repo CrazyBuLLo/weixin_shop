@@ -29,6 +29,11 @@ def login():
         return jsonify(resp)
 
     user_info = User.query.filter_by(login_name=login_name).first()
+    if user_info.status != 1:
+        resp['code'] = -1
+        resp['msg'] = '该账户已被冻结'
+        return jsonify(resp)
+
     if not user_info:
         resp['code'] = -1
         resp['msg'] = '请输入正确的登录用户名或密码'

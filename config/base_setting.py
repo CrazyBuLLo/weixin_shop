@@ -14,7 +14,8 @@ STATUS_MAPPING = {
 
 # 过滤url
 IGNORE_URLS = [
-    '^/user/login'
+    '^/user/login',
+    '^/api'
 ]
 
 IGNORE_CHECK_LOGIN_URLS = [

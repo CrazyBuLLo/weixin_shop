@@ -29,6 +29,7 @@ var account_index_ops = {
                     },
                     dataType: 'json',
                     success: function (res) {
+                        var callback = null;
                         if (res.code == 200) {
                             callback = function () {
                                 window.location.href = window.location.href;
